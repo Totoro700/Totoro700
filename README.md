@@ -4,26 +4,6 @@ Hello! Welcome to my profile!🎉 Good to see you here!
 
 I mainly like to program in Python and C++.
 
-Here is every single language I tried:
-
-- Python
-- HTML
-- CSS
-- JavaScript 
-- TypeScript
-- C#
-- C++
-- Java
-- XML
-- JSON
-
-And here is every single language I like:
-- Python
-- HTML
-- JavaScript
-- C++
-- XML
-
 ---
 
 Somethings about me:
@@ -35,6 +15,7 @@ Somethings about me:
   - The most characters I typed in a [single file](https://github.com/Totoro700/stuff-web/blob/main/index.html) is 11,226 (HTML)
   - I like to make my program messy
   - I really like to contribute to random repositories in GitHub
+  - I like to use dark mode
 
 ---
 
