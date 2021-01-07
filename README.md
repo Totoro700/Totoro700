@@ -12,7 +12,7 @@ Somethings about me:
   - I got attacked by a computer virus 14 times
   - I'm the worst at drawing, that is why you don't see a lot of logos or images in my [projects](https://github.com/Totoro700?tab=repositories)
   - I get easily bored
-  - The most characters I typed in a [single file](https://github.com/Totoro700/stuff-web/blob/main/index.html) is 11,226 (HTML)
+  - The most characters I typed in a [single file](https://github.com/Totoro700/PyTerm/blob/master/src/__main__.py) is 26,298 (Python)
   - I like to make my program messy
   - I really like to contribute to random repositories in GitHub
   - I like to use dark mode
@@ -25,8 +25,8 @@ Things I use just in case you are interested:
 
 **Browser**: [Google Chrome Canary](https://google.com/chrome/canary)
 
-**Language**: [Python](https://python.org)
+**Main Language**: [Python](https://python.org)
 
 **Text editor**: [Notepad++](https://notepad-plus-plus.org)
 
-**Compiler**: [Python](https://python.org/downloads)
+**Main Compiler for main language**: [Python](https://python.org/downloads)
