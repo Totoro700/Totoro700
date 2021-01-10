@@ -16,6 +16,8 @@ Somethings about me:
   - I like to make my program messy
   - I really like to contribute to random repositories in GitHub
   - I like to use dark mode
+  - I like to create simple projects
+  - I like to create libaries in Pyhton, JavaScript, and C++
 
 ---
 
@@ -25,8 +27,8 @@ Things I use just in case you are interested:
 
 **Browser**: [Google Chrome Canary](https://google.com/chrome/canary)
 
-**Main Language**: [Python](https://python.org)
+**Favorite lnguage**: [Python](https://python.org)
 
-**Text editor**: [Notepad++](https://notepad-plus-plus.org)
+**Favorite text editor**: [Notepad++](https://notepad-plus-plus.org)
 
 **Main Compiler for main language**: [Python](https://python.org/downloads)
