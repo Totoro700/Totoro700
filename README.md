@@ -17,7 +17,7 @@ Somethings about me:
   - I really like to contribute to random repositories in GitHub
   - I like to use dark mode
   - I like to create simple projects
-  - I like to create libaries in Pyhton, JavaScript, and C++
+  - I like to create libaries in Python, JavaScript, and C++
 
 ---
 
